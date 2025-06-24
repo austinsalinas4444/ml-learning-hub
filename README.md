@@ -8,9 +8,7 @@ This is where I collect, organize, and revisit everything I'm learning — from 
 
 ## 📁 Folder Structure
 
-``` 
 /numpy/ # vectorization, dot products, broadcasting /pandas/ # data wrangling, joins,
 groupby /scikit-learn/ # modeling, pipelines, hyperparam tuning /loss-functions/ # mse,cross-entropy,
  cost functions /gradient-descent/ # optimization, loops, vectorized forms /neural-networks/ # activation functions,
  forward pass, simple NNs /projects/ # end-to-end notebooks or experiments
-```
