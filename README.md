@@ -10,7 +10,7 @@ This is where I collect, organize, and revisit everything I'm learning — from 
 
 
 '''
-/numpy/ # vectorization, dot products, broadcasting
+'''numpy ''' vectorization, dot products, broadcasting
 /pandas/ # data wrangling, joins, groupby
 /scikit-learn/ # modeling, pipelines, hyperparam tuning
 /loss-functions/ # mse, cross-entropy, cost functions
